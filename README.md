@@ -1,5 +1,3 @@
 # etch-a-sketch
+An online etch-a-sketch created using HTML, CSS and JavaScript!
 
-## todo
-
-Recreate grid on button press
